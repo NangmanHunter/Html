@@ -1,0 +1,8 @@
+- SummaryOpenDetails
+- DetailsOpenSummary
+- Details-Open-Summary
+- DetailsSummaryOpen
+- Details-Summary-Open
+- OpenSummaryDetails
+- \<details open>\<summary>
+- `<details open><summary>`

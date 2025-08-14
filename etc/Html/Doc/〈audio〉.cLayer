@@ -1,0 +1,26 @@
+<audio>
+ㄴ<audio autoplay>
+ㄴ<audio controls>
+ㄴ<audio controlslist>
+ㅤㄴ<audio controlslist="nodownload">
+ㅤㄴ<audio controlslist="nofullscreen">
+ㅤㄴ<audio controlslist="noremoteplayback">
+ㄴ<audio crossorigin>
+ㅤㄴ<audio crossorigin="anonymous">
+ㅤㄴ<audio crossorigin="use-credentials">
+ㄴ<audio disableremoteplayback>
+ㄴ<audio loop>
+ㄴ<audio muted>
+ㄴ<audio preload>
+ㅤㄴ<audio preload="none">
+ㅤㄴ<audio preload="metadata">
+ㅤㄴ<audio preload="auto">
+ㄴ<audio src>
+
+
+
+
+
+
+
+

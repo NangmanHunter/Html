@@ -1,0 +1,7 @@
+- OpenDetails
+- DetailsOpen
+- Details-Open
+- details-open
+- details open
+- \<details open>
+- `<details open>`

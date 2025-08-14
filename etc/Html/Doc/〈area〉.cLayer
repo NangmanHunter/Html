@@ -1,0 +1,25 @@
+<area>
+ㄴ<area alt>
+ㄴ<area coords>
+ㅤㄴ<area coords="rect">
+ㅤㄴ<area coords="circle">
+ㅤㄴ<area coords="poly">
+ㄴ<area download>
+ㄴ<area href>
+ㄴ<area ping>
+ㄴ<area referrerpolicy>
+ㅤㄴ<area referrerpolicy="no-referrer">
+ㅤㄴ<area referrerpolicy="no-referrer-when-downgrade">
+ㅤㄴ<area referrerpolicy="origin">
+ㅤㄴ<area referrerpolicy="origin-when-cross-origin">
+ㅤㄴ<area referrerpolicy="same-origin">
+ㅤㄴ<area referrerpolicy="strict-origin">
+ㅤㄴ<area referrerpolicy="strict-origin-when-cross-origin (default)">
+ㅤㄴ<area referrerpolicy="unsafe-url">
+ㄴ<area rel>
+ㄴ<area shape>
+ㄴ<area target>
+ㅤㄴ<area target="_self">
+ㅤㄴ<area target="_blank">
+ㅤㄴ<area target="_parent">
+ㅤㄴ<area target="_top">

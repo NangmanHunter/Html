@@ -1,0 +1,10 @@
+- Details
+- DetailsTag
+- Detail
+- details
+- details-tag
+- detailstag
+- details tag
+- detail
+- \<details>
+- \<details>\</details>
