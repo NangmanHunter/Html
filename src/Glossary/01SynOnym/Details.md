@@ -8,3 +8,5 @@
 - detail
 - \<details>
 - \<details>\</details>
+- details element
+- details disclosure widget

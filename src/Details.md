@@ -1,17 +1,20 @@
 # Details
-- [Details](#details)
-- [SummaryDetails](#summarydetails)
-- [OpenDetails](#opendetails)
-- [SummaryOpenDetails](#summaryopendetails)
+- [Details`Element`](#detailselement)
+- [SummaryDetails`Element`](#summarydetailselement)
+- [OpenDetails`Element`](#opendetailselement)
+- [SummaryOpenDetails`Element`](#summaryopendetailselement)
 
-## Details
+
+
+## Details`Element`
 ```html
 <details>
     📌...
 </details>
 ```
 
-## Summary`Details`
+
+## SummaryDetails`Element`
 ```html
 <details>
     <summary>📌...</summary>
@@ -19,14 +22,16 @@
 </details>
 ```
 
-## Open`Details`
+
+## OpenDetails`Element`
 ```html
 <details open>
     📌...
 </details>
 ```
 
-## SummaryOpen`Details`
+
+## SummaryOpenDetails`Element`
 ```html
 <details open>
     <summary>📌...</summary>

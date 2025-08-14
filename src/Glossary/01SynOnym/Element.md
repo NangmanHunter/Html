@@ -1,0 +1,17 @@
+- Element (엘리먼트)
+- Element
+- Elements
+- 엘리먼트
+- 실제 의미 단위 또는 DOM 객체
+- 예: \<p>Hello\</p> 전체가 하나의 p element.
+- 태그와 내용까지 포함한 실제 의미 단위
+- 📌HTML 공부 초반에는 “태그”라고 부르는 경우가 많고, 조금 더 깊어지면 “엘리먼트”라고 많이 표현합니다.
+- 📌실무에서는 “element”를 더 많이 쓰는 편이에요.
+- 📌이유: JS, DOM, CSS와 이야기할 때는 단순 태그보다 의미 단위(element)를 다루니까요.
+- Element=Tag x2
+- Element▶️\<>\</>
+- Element▶️\<tag>\</tag>
+- Element▶️\<Tag>\</Tag>
+- Element▶️`<Tag></Tag>`
+- Element▶️\<Element>\</Element>
+- Element▶️`<Element></Element>`

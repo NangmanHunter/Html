@@ -1,0 +1,7 @@
+- Ex. \<div>, \<p> 이런 모양 자체를 태그라고 부름
+- Tag (태그)
+- Tag
+- Tag▶️\<>
+- Tag▶️\<tag>
+- Tag▶️\<Tag>
+- Tag▶️`<Tag>`
