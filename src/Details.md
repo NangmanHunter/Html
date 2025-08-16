@@ -9,7 +9,7 @@
 ## Details`Element`
 ```html
 <details>
-    📌...
+    📌
 </details>
 ```
 
@@ -17,8 +17,8 @@
 ## SummaryDetails`Element`
 ```html
 <details>
-    <summary>📌...</summary>
-    📌...
+    <summary>📌</summary>
+    📌
 </details>
 ```
 
@@ -26,7 +26,7 @@
 ## OpenDetails`Element`
 ```html
 <details open>
-    📌...
+    📌
 </details>
 ```
 
@@ -34,8 +34,8 @@
 ## SummaryOpenDetails`Element`
 ```html
 <details open>
-    <summary>📌...</summary>
-    📌...
+    <summary>📌</summary>
+    📌
 </details>
 ```
 
